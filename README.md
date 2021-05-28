@@ -10,6 +10,10 @@ Le mini project est dockerisé. Donc pour le lancer, il faut lancer ces commande
 
 On peut accéder au projet via cet url: http://localhost:8000/
 
-Voici les identifiant pour accéder en tant qu'administraeur :
+Voici les identifiants pour accéder en tant qu'administrateur :
 - email: horchani.wissem@icloud.com
 - pass: 1234
+
+Sinon, vous pouver s'inscrire pour mettre des commentaires.
+
+Cordialement,
