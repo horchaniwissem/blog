@@ -1,6 +1,6 @@
 Bonjour,
 
-Le mini project est dockerisé. Donc pour le lancer il faut lancer ces commande : 
+Le mini project est dockerisé. Donc pour le lancer, il faut lancer ces commandes : 
 - docker-compose build
 - docker-compose up -d 
 - winpty docker exec -it php-container bash
