@@ -5,6 +5,7 @@ Le mini project est dockerisé. Donc pour le lancer, il faut lancer ces commande
 - docker-compose up -d 
 - winpty docker exec -it php-container bash
     * composer install
+    * php artisan optimize:clear
     * php artisan migrate
     * php artisan db:seed
 
